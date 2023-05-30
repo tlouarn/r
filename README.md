@@ -5,8 +5,6 @@ density = function(x) {3 * x^2}
 curve(density, from=0, to=1)
 ```
 
-![image](https://github.com/tlouarn/financial-econometrics/assets/77942575/5a70bb70-bab0-4d42-8e9f-a783e2a1178a)
-
 
 ### How to write nested loops
 
@@ -22,6 +20,7 @@ for (j in c(10, 100, 1000, 10000, 100000)) {
 }
 means()
 ```
+![Rplot](https://github.com/tlouarn/r/assets/77942575/51d64229-e709-4095-8689-536db58f59b0)
 
 ```cmd
 1.155000 1.015050 1.001500 1.000150 1.000015
